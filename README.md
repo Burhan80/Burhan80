@@ -10,11 +10,11 @@ Hello, fellow tech enthusiast! 👋 I'm Burhan SHowkat, your guide in the realms
 
 1. **Explore Networking Marvels:** Dive into the world of networking with insightful articles, practical tips, and real-world scenarios. 🌐
 
-    <img src="https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif" alt="Mechanical CAD" width="300" height="150">
+    <img src="https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif" alt="Networking" width="300" height="150">
 
 2. **Circuit Board Chronicles:** Witness the magic of circuitry unfold through my designs, from concept to reality. 🛠️
 
-   <img src="https://media.giphy.com/media/45jl4IgS3ju8wYCdpI/giphy.gif" alt="Mechanical CAD" width="300" height="150">
+   <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Circuit Board" width="300" height="150">
 
 3. **Mechanical CAD Odyssey:** Join me on a journey through the digital landscapes of Mechanical CAD design. 🎨
 
