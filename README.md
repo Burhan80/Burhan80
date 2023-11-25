@@ -42,7 +42,9 @@ Hello, fellow tech enthusiast! 👋 I'm Burhan SHowkat, your guide in the realms
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burhan80&show_icons=true&locale=en&layout=compact" alt="burhan80" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhan80&theme=dark" alt="burhan80" /></p>
 
 Feel free to explore, learn, and get inspired! Together, let's shape the future of technology. 🌟
 
